@@ -1,5 +1,4 @@
-# Pong game by Nuwanduhhh
-
+# Pong game by Charles Crepps
 import turtle
 import os
 
